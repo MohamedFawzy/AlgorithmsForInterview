@@ -1,6 +1,6 @@
 package Other;
 /**
- *  write effiecent algorithm that return fibonacci sequence 
+ *  write efficient algorithm that return fibonacci sequence 
  * @author Mohamed fawzy
  * @copyright GPL
  */
