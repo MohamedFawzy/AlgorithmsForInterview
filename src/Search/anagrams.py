@@ -1,4 +1,8 @@
 __author__ = 'Mohamed Fawzy'
+#
+# Given a dictionary of  of english words, return the set of all words grouped into subsets of words that are
+# all anagrams for each other
+#
 def anagrams(dictonary):
     output = []
     map = {}
